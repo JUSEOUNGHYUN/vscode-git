@@ -16,5 +16,6 @@ int main() {
         sum+=a[i]-'0';
     }
 
+
     cout<<sum;
 }
